@@ -31,5 +31,7 @@ https://clock-samarthh22.vercel.app
 Future Improvements, some things I may add later:
 
 1)Lap functionality for the stopwatch
+
 2)Theme switcher (light/dark mode)
+
 3)Option to show multiple timezones
